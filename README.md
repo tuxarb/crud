@@ -5,4 +5,4 @@
 
 user/password - root/
 
-Создание и заполнение базы - database_init.sql
+Создание таблицы _users и ее заполнение - database_init.sql
