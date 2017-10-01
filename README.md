@@ -1,7 +1,8 @@
+#### Реализация тестового задания для стажировки в _TOPJAVA_.
 
           CRUD java
 
-База - test, таблица - _users
+База (mysql) - test, таблица - _users
 
 user/password - root/
 
